@@ -27,7 +27,7 @@ function Header() {
                         <Link to="/about">About</Link>
                     </li>
                     <li class="nav-item ml-auto">
-                        <a href="../../Resume-Oct2020-V2.pdf">Resume</a>
+                        <a href="https://drive.google.com/file/d/1zxvNA9CwTiKfWFF19qer1e_5-IR6nXC3/view?usp=sharing">Resume</a>
                     </li>
                 </ul>
             </div>
